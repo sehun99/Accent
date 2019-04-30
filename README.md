@@ -11,3 +11,5 @@ Serial.print(dot number of second row);
 ...
 Serial.print(dot number of 16th row);
 ````
+
+글자 하나당 17개의 숫자 전송
