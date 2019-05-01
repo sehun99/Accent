@@ -43,7 +43,9 @@ void loop() {
 
     int pattern = 3;
     int row, col, i;
-    
+
+    if(string.charAt(0)=='0'){
+      clean() ;}
 //String string ="a 01 13 14 56 43";
 //String string = Serial.readString();
 //  if(Serial.available()){
